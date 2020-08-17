@@ -36,15 +36,17 @@
 <br>
 
 
-<img align="left" alt="notha99y's Github Stats" src="https://github-readme-stats.vercel.app/api?username=notha99y&show_icons=true&hide_border=true" />
+<img align="left" alt="notha99y's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=notha99y&theme=great-gatsby&show_icons=true&hide_border=true" />
 
 <br>
 <br>
 
-<img align="center" alt="notha99y's top language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notha99y&theme=light&hide_langs_below=1" />
+<img align="left" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs/?username=notha99y&theme=great-gatsby&show_icons=true&hide_border=true&hide=jupyter%20notebook" />
 
 <br>
 <br>
+
+### Credit: https://github.com/anuraghazra/github-readme-stats
 
 [website]: https://renjietan.me
 [twitter]: https://twitter.com/rahjaytee
