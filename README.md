@@ -1,6 +1,7 @@
 ## Hi there, I'm Ren Jie 👋
 - 🇸🇬 I’m currently working as a Data Scientist in Singapore
 - 📚 I've graduated with MTech (Knowledge Engineering) and BSc (Physics) from NUS
+- 🌱 I’m currently learning Swift.
 - ⚡ In my free time I love to play tennis 🎾
 
 ### Connect with me:
@@ -35,12 +36,15 @@
 <br>
 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=notha99y&show_icons=true&hide_border=true" />
+<img align="left" alt="notha99y's Github Stats" src="https://github-readme-stats.vercel.app/api?username=notha99y&show_icons=true&hide_border=true" />
 
 <br>
 <br>
 
-### Credit: https://github.com/anuraghazra/github-readme-stats
+<img align="center" alt="notha99y's top language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notha99y&theme=light&hide_langs_below=1" />
+
+<br>
+<br>
 
 [website]: https://renjietan.me
 [twitter]: https://twitter.com/rahjaytee
