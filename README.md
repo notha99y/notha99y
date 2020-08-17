@@ -38,16 +38,11 @@
 <a>
 <img align="left" alt="notha99y's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=notha99y&theme=great-gatsby&show_icons=true&hide_border=true" />
 </a>
-<br>
-<br>
-
 <a>
 <img align="left" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs/?username=notha99y&theme=great-gatsby&show_icons=true&hide_border=true&hide=jupyter%20notebook" />
 </a>
-<br>
-<br>
 
-### Credit: https://github.com/anuraghazra/github-readme-stats
+<!-- ### Credit: https://github.com/anuraghazra/github-readme-stats -->
 
 [website]: https://renjietan.me
 [twitter]: https://twitter.com/rahjaytee
