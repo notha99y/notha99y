@@ -1,8 +1,11 @@
 ## Hi there, I'm Ren Jie 👋
-- 🇸🇬 I’m currently working as a Data Scientist in Singapore
+- 🇸🇬 I’m currently working as a Data Scientist in Singapore <img src="https://miro.medium.com/max/1120/0*nsgXxd0kwN3qT2ks.gif" width="30"/>
 - 📚 I've graduated with MTech (Knowledge Engineering) and BSc (Physics) from NUS
-- 🌱 I’m currently learning Swift.
+- 🌱 I’m currently learning Swift. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
 - ⚡ In my free time I love to play tennis 🎾
+
+
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=notha99y&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/></em></p>  
 
 ### Connect with me:
 
@@ -43,7 +46,6 @@
 </a>
 
 <!-- ### Credit: https://github.com/anuraghazra/github-readme-stats -->
-
 [website]: https://renjietan.me
 [twitter]: https://twitter.com/rahjaytee
 [linkedin]: https://www.linkedin.com/in/renjietan/
