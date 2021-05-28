@@ -38,10 +38,10 @@
 <br>
 
 <a>
-<img align="left" alt="notha99y's Github Stats" src="https://github-readme-stats.notha99y.vercel.app/api?username=notha99y&theme=great-gatsby&show_icons=true&hide_border=true" />
+<img align="left" alt="notha99y's Github Stats" src="http://github-readme-stats-notha99y.vercel.app/api?username=notha99y&theme=great-gatsby&show_icons=true&hide_border=true" />
 </a>
 <a>
-<img align="left" src="https://github-readme-stats.notha99y.vercel.app/api/top-langs/?username=notha99y&theme=great-gatsby&show_icons=true&hide_border=true&hide=jupyter%20notebook" />
+<img align="left" src="http://github-readme-stats-notha99y.vercel.app/api/top-langs/?username=notha99y&theme=great-gatsby&show_icons=true&hide_border=true&hide=jupyter%20notebook" />
 </a>
 
 <!-- ### Credit: https://github.com/anuraghazra/github-readme-stats -->
