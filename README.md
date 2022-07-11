@@ -46,6 +46,8 @@
 
 <br>
 
+[![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/notha99y/notha99y@output/github-contribution-grid-snake-dark.gif)](https://github.com/notha99y)
+
 <!-- ### Credit: https://github.com/anuraghazra/github-readme-stats -->
 [website]: https://renjietan.me
 [twitter]: https://twitter.com/rahjaytee
