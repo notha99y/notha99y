@@ -1,11 +1,11 @@
-## Hi there, I'm Ren Jie 👋
+## Hi there, I'm [Ren Jie](https://notha99y.github.io/) 👋
 - 🇸🇬 I’m currently working as a Data Scientist in Singapore <img src="https://miro.medium.com/max/1120/0*nsgXxd0kwN3qT2ks.gif" width="30"/>
 - 📚 I've graduated with MTech (Knowledge Engineering) and BSc (Physics) from NUS
 - 🌱 I’m currently learning Swift. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
 - ⚡ In my free time I love to play tennis 🎾
 
-
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=notha99y&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/></em></p>  
+<a href="https://github.com/notha99y"><img src="https://komarev.com/ghpvc/?username=notha99y&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12" alt="notha99y" /></a>
+<a href="https://github.com/notha99y?tab=followers"><img src="https://img.shields.io/github/followers/notha99y"></a>
 
 ### Connect with me:
 
@@ -43,6 +43,8 @@
 <a>
 <img align="left" src="http://github-readme-stats-notha99y.vercel.app/api/top-langs/?username=notha99y&theme=great-gatsby&show_icons=true&hide_border=true&hide=jupyter%20notebook" />
 </a>
+
+<br>
 
 <!-- ### Credit: https://github.com/anuraghazra/github-readme-stats -->
 [website]: https://renjietan.me
