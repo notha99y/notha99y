@@ -30,7 +30,7 @@
 <br>
 
 ## 📕 Latest Blog Posts
-- [Breaking Down Mean Average Precision (mAP)](https://towardsdatascience.com/breaking-down-mean-average-precision-map-ae462f623a52)
+- [Mean Average Precision Explained](https://builtin.com/articles/mean-average-precision)
 - [A Starter Pack to Exploratory Data Analysis with Python, pandas, seaborn, and scikit-learn](https://towardsdatascience.com/a-starter-pack-to-exploratory-data-analysis-with-python-pandas-seaborn-and-scikit-learn-a77889485baf)
 - [How I improved a Human Action Classifier to 80% Validation Accuracy in 6 Easy Steps](https://towardsdatascience.com/6-steps-to-quickly-train-a-human-action-classifier-with-validation-accuracy-of-over-80-655fcb8781c5)
 
