@@ -32,8 +32,8 @@
 ## 📕 Latest Blog Posts
 - [A Starter Pack to building a local Chatbot using Ollama, LangGraph and RAG](https://medium.com/kredivotechblog/a-starter-pack-to-building-a-local-chatbot-using-ollama-langgraph-and-rag-6d25b7f43d07)
 - [Mean Average Precision Explained](https://builtin.com/articles/mean-average-precision)
-- [A Starter Pack to Exploratory Data Analysis with Python, pandas, seaborn, and scikit-learn](https://towardsdatascience.com/a-starter-pack-to-exploratory-data-analysis-with-python-pandas-seaborn-and-scikit-learn-a77889485baf)
-- [How I improved a Human Action Classifier to 80% Validation Accuracy in 6 Easy Steps](https://towardsdatascience.com/6-steps-to-quickly-train-a-human-action-classifier-with-validation-accuracy-of-over-80-655fcb8781c5)
+- [A Starter Pack to Exploratory Data Analysis with Python, pandas, seaborn, and scikit-learn](https://medium.com/towards-data-science/a-starter-pack-to-exploratory-data-analysis-with-python-pandas-seaborn-and-scikit-learn-a77889485baf)
+- [How I improved a Human Action Classifier to 80% Validation Accuracy in 6 Easy Steps](https://medium.com/towards-data-science/6-steps-to-quickly-train-a-human-action-classifier-with-validation-accuracy-of-over-80-655fcb8781c5)
 
 <br>
 <br>
